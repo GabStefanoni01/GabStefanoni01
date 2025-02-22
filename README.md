@@ -31,13 +31,13 @@
 ## 🌎 Connect with Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="www.linkedin.com/in/gabriel-stefanoni-1674701b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/GabrielStefanoni" target="_blank">
+  <a href="https://github.com/GabStefanoni01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:gabrielpstefanoni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>
