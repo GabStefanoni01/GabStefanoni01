@@ -22,8 +22,8 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielStefanoni&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielStefanoni&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabStefanoni01&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabStefanoni01&theme=tokyonight" />
 </div>
 
 ---
