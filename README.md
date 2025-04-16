@@ -31,7 +31,7 @@
 ## 🌎 Connect with Me  
 
 <div align="center">
-  <a href="www.linkedin.com/in/gabriel-stefanoni-1674701b8" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-stefanoni-1674701b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/GabStefanoni01" target="_blank">
@@ -39,5 +39,8 @@
   </a>
   <a href="mailto:gabrielpstefanoni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://gabstefanoni01.github.io/Portifolio/#contato" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
