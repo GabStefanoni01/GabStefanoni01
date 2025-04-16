@@ -40,7 +40,7 @@
   <a href="mailto:gabrielpstefanoni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://gabstefanoni01.github.io/Portifolio/#contato" target="_blank">
+  <a href="https://gabstefanoni01.github.io/Portifolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
